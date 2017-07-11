@@ -39,7 +39,7 @@ and change the CN of the SSL as i have changed it
 Installation
 
 Step 1
-"curl -Ls https://rawgit.com/macalinaomark/AutoMisp/master/auto-MISP-ubuntu.sh | sudo bash -"
+"curl -Ls https://rawgit.com/Lexhanatin/AutoMisp/master/auto-MISP-ubuntu.sh | sudo bash -"
 
 Marks Notes
 to access the Web UI
